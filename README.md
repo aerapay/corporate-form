@@ -1,6 +1,6 @@
 # Aerapay Corporate Form
 
-The Aerapay Corporate Form is a snippet which can be implemented on any corporate website to let customers of this corporate directly register.
+The Aerapay Corporate Reistration Form is a snippet which can be implemented on a website to permit consumer registration for Aerapay Corporate accounts.
 
 ## Documentation
 
@@ -10,7 +10,7 @@ Initializes the corporate form.
 
 __Options__
 
-* `corporate` - Mandatory. Defines the name of the corporate, which the customers are registered to (has to be the corporate name of the Aerapay Account)
+* `corporate` - Mandatory. Defines the name of the corporate, that the consumer/customer are registering under (the name must match the corporate name in the Aerapay Account)
 * `element` - Optional. Defines the selector the form would be added to (Default: '#customer-form-container')
 * `styles` - Optional. Custom styles for the form can be added here
 
