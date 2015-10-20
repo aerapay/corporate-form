@@ -1,6 +1,6 @@
 # Aerapay Corporate Form
 
-The Aerapay Corporate Reistration Form is a snippet which can be implemented on a website to permit consumer registration for Aerapay Corporate accounts.
+The Aerapay Corporate Registration Form is a snippet which can be implemented on a website to permit consumer registration for Aerapay Corporate accounts.
 
 ## Documentation
 
