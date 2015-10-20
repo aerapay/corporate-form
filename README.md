@@ -22,7 +22,7 @@ __Example__
 <script src="https://app.aerapay.com/widgets/customer-form.js" charset="utf-8"></script>
 <script type='text/javascript'>
     Aerapay.CustomerForm.init({
-        corporate: 'Example Company'
+        corporate: 'Example Corporate'
     });
 </script>
 ```
