@@ -10,7 +10,7 @@ Initializes the corporate form.
 
 __Options__
 
-* `corporate` - Required. Defines the name of the corporate, that the consumer/customer are registering under (the name must match the corporate name in the Aerapay Account)
+* `corporate` - Required. Defines the name of the corporate, that the consumer/customer are registering under (the name must match the username of the Aerapay Account)
 * `element` - Optional. Defines the selector the form would be added to (Default: '#customer-form-container')
 * `styles` - Optional. Custom styles for the form can be added here
 
