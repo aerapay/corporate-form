@@ -10,7 +10,7 @@ Initializes the corporate form.
 
 __Options__
 
-* `corporate` - Required. Defines the name of the corporate, that the consumer/customer are registering under (the name must match the username of the Aerapay Account)
+* `accessToken` - Required. Aerapay API acess token.
 * `element` - Optional. Defines the selector the form would be added to (Default: '#customer-form-container')
 * `styles` - Optional. Custom styles for the form can be added here
 
@@ -22,7 +22,7 @@ __Example__
 <script src="https://app.aerapay.com/widgets/customer-form.js" charset="utf-8"></script>
 <script type='text/javascript'>
     Aerapay.CustomerForm.init({
-        corporate: 'Example Corporate'
+        accessToken: 'Token'
     });
 </script>
 ```
