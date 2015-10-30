@@ -10,7 +10,7 @@ Initializes the corporate form.
 
 __Options__
 
-* `accessToken` - Required. Aerapay API acess token.
+* `accessToken` - Required. Aerapay API access token.
 * `element` - Optional. Defines the selector the form would be added to (Default: '#customer-form-container')
 * `styles` - Optional. Custom styles for the form can be added here
 
